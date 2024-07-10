@@ -1,27 +1,36 @@
-.about-page {
-  text-align: center;
-  padding: 2rem;
-  font-family: Arial, sans-serif;
+.about-us {
+  padding: 20px;
+  background-color: #f9f9f9;
+  color: #333;
+  font-family: 'Arial, sans-serif';
 }
 
-.about-section {
-  margin-bottom: 2rem;
+.about-us h2, .about-us h3 {
+  color: #2c3e50;
+  margin-bottom: 10px;
 }
 
-.about-section img {
-  width: 70%; /* Adjusted image width */
-  height: auto;
-  margin-bottom: 1rem;
-}
-
-.about-section h2 {
-  margin-bottom: 1rem;
-  font-size: 2rem; /* Increased heading size */
-}
-
-.about-section p {
-  margin: 0 auto;
-  max-width: 800px;
-  font-size: 1.2rem; /* Increased paragraph size */
+.about-us p {
   line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.about-image, .team-image, .history-image {
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+.about-image {
+  border: 2px solid #2c3e50;
+}
+
+.team-image {
+  border: 2px solid #3498db;
+}
+
+.history-image {
+  border: 2px solid #e74c3c;
 }
