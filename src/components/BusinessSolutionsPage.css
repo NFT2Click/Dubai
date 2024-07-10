@@ -1,0 +1,13 @@
+/* BusinessSolutionsPage specific styles */
+.business-solutions-content {
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.business-solutions-content h1 {
+  font-size: 3rem;
+}
+
+.business-solutions-content p {
+  font-size: 1.2rem;
+}

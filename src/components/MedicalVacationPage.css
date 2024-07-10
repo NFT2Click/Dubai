@@ -1,0 +1,13 @@
+/* MedicalVacationPage specific styles */
+.medical-vacation-content {
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.medical-vacation-content h1 {
+  font-size: 3rem;
+}
+
+.medical-vacation-content p {
+  font-size: 1.2rem;
+}

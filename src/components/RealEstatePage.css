@@ -1,0 +1,13 @@
+/* RealEstatePage specific styles */
+.real-estate-content {
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.real-estate-content h1 {
+  font-size: 3rem;
+}
+
+.real-estate-content p {
+  font-size: 1.2rem;
+}

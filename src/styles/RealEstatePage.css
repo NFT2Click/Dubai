@@ -1,0 +1,20 @@
+.real-estate-page {
+  padding: 20px;
+}
+
+.real-estate-section {
+  margin-bottom: 20px;
+}
+
+.real-estate-section img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+.real-estate-section p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}

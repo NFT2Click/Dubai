@@ -1,0 +1,20 @@
+.medical-vacation-page {
+  padding: 20px;
+}
+
+.medical-section {
+  margin-bottom: 20px;
+}
+
+.medical-section img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+.medical-section p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
