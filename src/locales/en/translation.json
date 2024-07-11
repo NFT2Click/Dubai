@@ -1,0 +1,11 @@
+// src/locales/en/translation.json
+{
+  "welcome": "Welcome to Dubai Project",
+  "home": "Home",
+  "services": "Services",
+  "realEstate": "Real Estate",
+  "medicalVacation": "Medical Vacation",
+  "businessSolutions": "Business Solutions",
+  "aboutUs": "About Us",
+  "contact": "Contact"
+}

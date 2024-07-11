@@ -1,0 +1,11 @@
+// src/locales/ar/translation.json
+{
+  "welcome": "مرحبا بكم في مشروع دبي",
+  "home": "الصفحة الرئيسية",
+  "services": "الخدمات",
+  "realEstate": "العقارات",
+  "medicalVacation": "الإجازة الطبية",
+  "businessSolutions": "حلول الأعمال",
+  "aboutUs": "معلومات عنا",
+  "contact": "تواصل معنا"
+}
