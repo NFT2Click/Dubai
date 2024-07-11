@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Dubai/static/css/main.900bc245.css",
-    "main.js": "/Dubai/static/js/main.6bc99256.js",
+    "main.css": "/Dubai/static/css/main.c3769e97.css",
+    "main.js": "/Dubai/static/js/main.4dc4530d.js",
+    "static/media/about-us.jpg": "/Dubai/static/media/about-us.2a3cb4cf43d8f28c885a.jpg",
     "static/media/business-properties.jpg": "/Dubai/static/media/business-properties.fc21e68025bce9bc388c.jpg",
     "static/media/business-solutions.jpg": "/Dubai/static/media/business-solutions.fc21e68025bce9bc388c.jpg",
     "static/media/company-history.jpg": "/Dubai/static/media/company-history.c3ecc748ea23ffacde71.jpg",
     "static/media/virtual-tours.jpg": "/Dubai/static/media/virtual-tours.6db6adee80fe334a22bd.jpg",
     "static/media/real-estate.jpg": "/Dubai/static/media/real-estate.7fee8f1905821606a2bb.jpg",
-    "static/media/mission-vision.jpg": "/Dubai/static/media/mission-vision.45cb0d4fa5258273673b.jpg",
     "static/media/medical-vacation.jpg": "/Dubai/static/media/medical-vacation.4b2f5f596844e4c2f8ed.jpg",
     "static/media/team-profiles.jpg": "/Dubai/static/media/team-profiles.9b6bc5f566db926c2679.jpg",
     "static/media/luxury-apartments.jpg": "/Dubai/static/media/luxury-apartments.a7f2655ea5a7d3a6861c.jpg",
     "static/media/banner.jpg": "/Dubai/static/media/banner.1b03581fbc08e91dc3d6.jpg",
+    "static/media/dubai-flag.png": "/Dubai/static/media/dubai-flag.5854b7eaa2344ee51e53.png",
     "index.html": "/Dubai/index.html",
-    "main.900bc245.css.map": "/Dubai/static/css/main.900bc245.css.map",
-    "main.6bc99256.js.map": "/Dubai/static/js/main.6bc99256.js.map"
+    "main.c3769e97.css.map": "/Dubai/static/css/main.c3769e97.css.map",
+    "main.4dc4530d.js.map": "/Dubai/static/js/main.4dc4530d.js.map"
   },
   "entrypoints": [
-    "static/css/main.900bc245.css",
-    "static/js/main.6bc99256.js"
+    "static/css/main.c3769e97.css",
+    "static/js/main.4dc4530d.js"
   ]
 }
